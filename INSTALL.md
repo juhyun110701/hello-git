@@ -1,5 +1,5 @@
 #동작 환경
-* Windows `10`
+* Windows `8`
 * .Net Framework `4` 이상
 
 #설치 환경
