@@ -15,7 +15,7 @@
 				2. 셋 둘
 				*셋 셋
 	
-	![이미지]()
+	![이미지](https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Snoopy_Peanuts.png/200px-Snoopy_Peanuts.png)
 	>[구글로 가기](https://www.google.com/)
 	
 	>스택오버플로우가 말하길...
