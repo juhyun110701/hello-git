@@ -1,6 +1,8 @@
 #동작 환경
-* Windows 10
-* over .Net Framework 4
+* Windows `10`
+* .Net Framework `4` 이상
 
 #설치 환경
-1. 삭제하세요
+1. 파일 다운받으세요.
+2. 실행하세요.
+3. 삭제하세요
