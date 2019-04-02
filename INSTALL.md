@@ -3,3 +3,4 @@
 * over .Net Framework 4
 
 #설치 환경
+1. 삭제하세요
